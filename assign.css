@@ -1,1 +1,219 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
+/* Header  style */
+
+.header{
+   background-image: url(./images/banner/banner1.png);
+   background-size: cover;
+   background-position: center;
+   left: 1600px;
+   height: 600px; 
+   text-align: right; 
+  
+   
+   
+}
+
+.banner-title{
+   font-weight: 900;
+   font-size: 60px;
+   text-align: : right;
+   margin-left: 700px;
+   margin-top: 0px;
+   margin-right: 95px;
+   
+
+
+}
+.banner{
+padding-top: 150px;
+
+}
+
+.banner-descriptaion{
+   width: 494px;
+   height: 78px;left: 876px;
+   top: 60px;
+   font-family: 'Work Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   text-align: right;
+   margin-left: 630px;
+   margin-top: 50px;  
+   margin-right: 70px;
+   margin-bottom: 20px;
+}
+.button-primary{
+   margin-right:102px;
+   width: 150px;
+   height: 50px;
+   left: 1210px;
+   top: 580px;
+   background-color: #fd6e0a;
+   color: #ffff;
+   border-radius: 5px;
+   font-weight: 700;
+   border: none;
+   
+
+}
+
+
+/* failures style */
+
+.failures{
+   display: flex;
+   margin-top:100px;
+   size: 60px;
+
+}
+ 
+.failures-title{
+text-align: center left;
+margin-right: 100px;
+margin-bottom: 0px;
+margin-top: 150px;
+margin-left: 100px;
+font-size: 30px;
+width: 288px;
+height: 94px;
+
+}
+.failures-description{
+   margin-left: 100px;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 26px;
+   width: 400px;
+   height: 104px;
+   margin-bottom: 10px;
+}
+.failures-list{
+margin-left: 100px;
+
+}
+
+.failures-image{
+   height: 500px;
+   width: 400px;
+   margin-left: 200px;
+   margin-top: 20px;
+}
+   
+
+/* plan style */
+.what-i-do{
+   margin-top: 200px;
+   margin-bottom: 200px;
+   text-align: center;
+   margin-left: 180px;
+
+}
+.plan-container{
+   display: flex;
+   gap: 24px;
+   
+}
+.plan-title{
+   font-weight: 700;
+   font-size: 20px;
+   margin-bottom: 30px;
+   margin-top: 30px;
+}
+.title{
+   font-size: 30px;
+   margin-right: 150px;
+   margin-bottom: 20px;
+}
+.plan{
+   
+   border-radius: 20px;
+   padding: 20px;
+   margin-left: 5px;
+}
+.section-title{
+margin-right: 120px;   
+
+}
+.plan-descriptaion
+
+/* contact style */
+
+.contact .section-title{
+   text-align: center;
+}
+.contact{
+   display: flex;
+   gap: 100px;
+   background-color: #151414;
+   padding: 130px 200px;
+   color: #f8f8f8;
+}
+.contact .section-title{
+   text-align: left;
+}
+
+.contact input{
+   margin-bottom: 20px;
+   border: 0;
+   width: 100%;
+   padding:18px 30px;
+}
+.contact a{
+   text-decoration: none;
+}
+.contact img{
+   margin-top: 20px;
+}
+.button{
+   color: #fd6e0a;
+   background-color: #ffffff;
+   width: 150px;
+   height: 50px;
+   font-weight: 700px;
+   border-radius: 5px;
+   font-weight: 700;
+}   
+/* gradient style */
+
+.gradient{
+   background-image: url(./images/gradient2.png), url(./images/watch.png);
+   color: #f8f8f8;
+   margin-bottom: 50px;
+   background-repeat: no-repeat;
+   margin-left: 220px;
+   size: 50px;
+   width: 800px;
+   height: 300px;
+   margin-bottom: 200px;
+   display:flex ;
+}
+
+.button-g{
+   color: #fd6e0a;
+   background-color: #ffffff;
+   width: 150px;
+   height: 50px;
+   font-weight: 700px;
+   border-radius: 5px;
+   font-weight: 700;
+   border: none;
+   margin-top: 10px;
+   margin-left: 70px;
+   margin-bottom: 10px;
+}
+
+.gradient-title{
+   font-weight: 700px;
+   font-size: 30px;
+   text-align:  left;
+   margin-left: 70px;
+   margin-top: 100px;
+   margin-right: 100px;
+}
